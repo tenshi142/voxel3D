@@ -1,10 +1,10 @@
-# voxel3D
+# Voxel3D
 A Voxel 3D Engine using OpenGL (C++)
 
 # description
 A voxel 3D Engine using OpenGL with C++ to generate a simple voxel terrain. (currently in development)
 
-# controls
+# Controls
 W - Move Forward
 A - Move Left
 S - Move Backward
@@ -19,3 +19,8 @@ Mouse 2 - n/a
 ESC - Quit
 
 n/a means not implement yet
+
+# Requirement
+OpenGL
+C++ 17
+MSYS64
