@@ -3,6 +3,7 @@ A Voxel 3D Engine using OpenGL (C++)
 
 # description
 A voxel 3D Engine using OpenGL with C++ to generate a simple voxel terrain. (currently in development)
+By exploring about the terrain generation algorithms such as Perlin Noise.
 
 # Controls
 W - Move Forward
